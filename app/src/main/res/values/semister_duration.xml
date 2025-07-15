@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="duration_semester">
+        <item>2nd Semester</item>
+        <item>4th Semester</item>
+        <item>6th Semester</item>
+        <item>8th Semester</item>
+    </string-array>
+
+</resources>
